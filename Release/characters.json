@@ -1,0 +1,34 @@
+//Traits
+//	WoodCutter = 1
+//	Miner = 2
+//	Gatherer = 3
+//	BigEater = 4
+//	PotionBrewer = 4
+//	Artisan = 5
+//	Aggressive = 6
+//	Defensive = 7
+//	Swift = 8
+//	Healthy = 9
+//	Intellegent = 11
+//	Lockmaster = 12
+
+[
+    {
+        "name": "tank",
+        "attack": 1,
+        "dex": 0,
+        "hp": 20,
+        "magic": 0,
+        "trait1": 7,
+        "trait2": 9
+    },
+    {
+        "name": "mageman",
+        "attack": 1,
+        "dex": 4,
+        "hp": 3,
+        "magic": 10,
+        "trait1": 4,
+        "trait2": 11
+    }
+]
